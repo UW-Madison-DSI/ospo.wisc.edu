@@ -8,8 +8,9 @@
 <body>
 	<div id="uw-top-menus" class="uw-is-visible uw-horizontal" aria-hidden="false">
 		<div class="uw-main-nav">
+
 		<nav class="uw-nav-menu uw-nav-menu-reverse" aria-label="Main Menu">
-	
+			<!-- <button type="button" class="btn btn-outline-primary">Primary</button> -->
 			<ul id="uw-main-nav" style="max-width:80em;">
 				{% for item in site.data.navigation %}
 				{% if page.url == item.link %}
@@ -24,6 +25,22 @@
 				{% endfor %}
 			</ul>
 		</nav>
+		<!-- <style>
+			@media (max-width: 858px) {
+				ul {
+					position: fixed;
+					width: 100%;
+					height: 100vh;
+					background: #808080;
+					top: 80px;
+					left: 0;
+					text-align: center;
+				}
+				.current-menu-item, .menu-item {
+					display: block;
+				}
+			}
+		</style> -->
 		
 		</div>
 	</div>

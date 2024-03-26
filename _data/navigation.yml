@@ -1,6 +1,9 @@
 - name: Home
   link: /
 
+- name: Team
+  link: /team.html
+
 - name: Partners
   link: /about.html
 
