@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h1 class="page-title uw-mini-bar">{{ page.fullname }}</h1>
+<br />
+<p><a href="../profiles">Faces of Open Source</a></p> 
+
+<div class="person-profile">
+  {% if page.headshot %}
+  <div class="icon">
+    <div class="headshot" style="background-image:url(../../images/profiles/{{ page.headshot }})"></div>
+    <h3>{{ page.fullname }} </h3>
+  </div>
+  {% endif %}
+  <h2>{{ page.headline }} </h2>
+  <p>{{ page.content | markdownify }}</p>
+</div>
