@@ -7,23 +7,37 @@ channels = ["conda-forge"]
 platforms = ["linux-64", "osx-64", "osx-arm64"]
 
 [tasks]
+[tasks.install]
+description = "Install the Ruby Gem dependencies"
 # Need to use '--user-install' as using pixi instead of rbenv
-install = """
+cmd = """
 gem install --user-install bundle && \
 bundle install
 """
 
-check = "bundle exec rake check"
+[tasks.check]
+description = "Perform validation checks"
+cmd = "bundle exec rake check"
 
-build = "bundle exec rake build"
+[tasks.build]
+description = "Statically build the site"
+cmd = "bundle exec rake build"
 
-serve = "bundle exec rake serve"
+[tasks.serve]
+description = "Build the site and serve it live"
+cmd = "bundle exec rake serve"
 
-clean = "bundle exec rake clean"
+[tasks.clean]
+description = "Clean up and remove artifacts generated during the build"
+cmd = "bundle exec rake clean"
 
-clobber = "bundle exec rake clobber"
+[tasks.clobber]
+description = "Clean everything generated during the build"
+cmd = "bundle exec rake clobber"
 
-start = { depends-on = ["install", "serve"] }
+[tasks.start]
+description = "Install the Ruby Gem dependencies and build and serve the site"
+depends-on = ["install", "serve"]
 
 [dependencies]
 ruby = ">=3.3.3,<4"
