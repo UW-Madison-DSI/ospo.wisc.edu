@@ -36,11 +36,11 @@ permalink: /activities/internships
   <li>Review the <a href="/assets/pdf/spring_2025_projects.pdf" target="_blank">list of available projects.</a></li>
   <li>Interns should apply through the <a href="https://studentjobs.hr.wisc.edu/cw/en-us/job/508335" target="_blank">UW Student Jobs portal.</a> Applicants who are not currently admitted or enrolled as a UW-Madison Student or without a UW NetID can login as well as create an account.</li>
   <li>Application materials should include:
-  	<ul>
-  		<li>A one-page cover letter that identifies the project(s) you are interested in and addresses your skills and experiences relevant to those projects and your interest in open source broadly.</li>
-  		<li>A resume that includes your name, school email address, phone number, field(s) of study (major, minor, degree, certificate), relevant coursework, extracurricular activities, expected graduation date, and any relevant work or research experience.</li>
-  		<li>The names and contact information of three references.</li>
-  	</ul>
+    <ul>
+      <li>A one-page cover letter that identifies the project(s) you are interested in and addresses your skills and experiences relevant to those projects and your interest in open source broadly.</li>
+      <li>A resume that includes your name, school email address, phone number, field(s) of study (major, minor, degree, certificate), relevant coursework, extracurricular activities, expected graduation date, and any relevant work or research experience.</li>
+      <li>The names and contact information of three references.</li>
+    </ul>
   </li>
   <li>Submit a resume, cover letter, and three references as part of your application. Make sure you identify the specific project or projects you are applying to or proposing in your cover letter. Applications are due by 11:59pm on January 27.</li>
   <li>Interviews will be arranged for selected candidates on a rolling basis through early February.</li>
