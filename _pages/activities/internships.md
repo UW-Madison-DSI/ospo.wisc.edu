@@ -42,7 +42,7 @@ permalink: /activities/internships
       <li>The names and contact information of three references.</li>
     </ul>
   </li>
-  <li>Submit a resume, cover letter, and three references as part of your application. Make sure you identify the specific project or projects you are applying to or proposing in your cover letter. Applications are due by 11:59pm on January 27.</li>
+  <li>Submit a resume, cover letter, and three references as part of your application. Make sure you identify the specific project or projects you are applying to or proposing in your cover letter. Applications are due by 11:59pm Central Time on January 27, 2025.</li>
   <li>Interviews will be arranged for selected candidates on a rolling basis through early February.</li>
 </ol>
 <p>Any questions regarding the application process should be directed to <a href="mailto:ospo@datascience.wisc.edu" target="_blank">ospo@datascience.wisc.edu.</a> For more information about the OSPO, visit <a href="https://ospo.wisc.edu">ospo.wisc.edu.</a></p>
