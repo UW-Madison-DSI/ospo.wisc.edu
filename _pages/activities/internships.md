@@ -6,7 +6,7 @@ permalink: /activities/internships
 
 <h1 class="page-title uw-mini-bar">Internship Program</h1>
 
-<p style="text-align:center;"><b><a href="https://studentjobs.hr.wisc.edu/cw/en-us/job/508335">Apply now</a> for the Spring 2025 Open Source Program Office Internship Cohort! Applications are open until January 27, 2025.</b></p>
+<p style="text-align:center;"><b><a href="https://studentjobs.hr.wisc.edu/cw/en-us/job/508335/ospo-internship-program">Apply now</a> for the Spring 2025 Open Source Program Office Internship Cohort! Applications are open until January 27, 2025.</b></p>
 
 <p>In collaboration with Madison College, the UW-Madison Open Source Program Office (OSPO) is establishing a new internship program for students to participate in open source software projects each semester. During the internship, students will join a mentored open source project or develop a proposal for a self-directed project, participate in an initial training session and weekly check-ins with the Open Source Program Office, and learn crucial skills related to managing open source software projects and growing software user communities.</p>
 
@@ -34,7 +34,7 @@ permalink: /activities/internships
 <h2>Application Requirements</h2>
 <ol>
   <li>Review the <a href="/assets/pdf/spring_2025_projects.pdf" target="_blank">list of available projects.</a></li>
-  <li>Interns should apply through the <a href="https://studentjobs.hr.wisc.edu/cw/en-us/job/508335" target="_blank">UW Student Jobs portal.</a> Applicants who are not currently admitted or enrolled as a UW-Madison Student or without a UW NetID can login as well as create an account.</li>
+  <li>Interns should apply through the <a href="https://studentjobs.hr.wisc.edu/cw/en-us/job/508335/ospo-internship-program" target="_blank">UW Student Jobs portal.</a> Applicants who are not currently admitted or enrolled as a UW-Madison Student or without a UW NetID can login as well as create an account.</li>
   <li>Application materials should include:
     <ul>
       <li>A one-page cover letter that identifies the project(s) you are interested in and addresses your skills and experiences relevant to those projects and your interest in open source broadly.</li>
