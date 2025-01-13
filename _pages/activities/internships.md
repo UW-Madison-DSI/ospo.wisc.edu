@@ -12,7 +12,7 @@ permalink: /activities/internships
 
 <h2>Eligibility</h2>
 
-<p>UW-Madison and Madison College students with applicable backgrounds in any field are eligible to apply. Students must be enrolled in a degree program during the calendar year with at least one semester remaining after the internship’s conclusion.</p>
+<p>UW-Madison and Madison College students with applicable backgrounds in any field are eligible to apply.</p>
 
 <h2>Timeline and Schedule</h2>
 
