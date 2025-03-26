@@ -6,7 +6,7 @@ permalink: /activities/internships
 
 <h1 class="page-title uw-mini-bar">Internship Program</h1>
 
-<!-- <p style="text-align:center;"><b><a href="https://studentjobs.hr.wisc.edu/cw/en-us/job/508335/ospo-internship-program">Apply now</a> for the Spring 2025 Open Source Program Office Internship Cohort! Applications are open until January 27, 2025.</b></p>-->
+<p style="text-align:center;"><b>Applications for the Summer 2025 Open Source Program Office Internship will open soon! Prepare to apply using the information below and continue checking this page for updates.</b>
 
 <p>In collaboration with Madison College, the UW-Madison Open Source Program Office (OSPO) has established an internship program for students to participate in open source software projects each semester. During the internship, students will join a mentored open source project or develop a proposal for a self-directed project, participate in an initial training session and weekly check-ins with the Open Source Program Office, and learn crucial skills related to managing open source software projects and growing software user communities.</p>
 
@@ -24,7 +24,7 @@ permalink: /activities/internships
 
 <h2>Skills and Experience</h2>
 
-<p>A list of project descriptions will be published with specific desired skills during the application period each semester. In general, we expect applicants to possess:</p>
+<p>A list of project descriptions will be published with specific desired skills during the application period each semester. <a href="https://drive.google.com/file/d/1c1eKe0udC4SXuLKdNJvgXAaFTxxwZfOh/view?usp=sharing">View the Summer 2025 Project List here.</a> In general, we expect applicants to possess:</p>
 <ul>
   <li>Experience balancing multiple tasks, identifying and solving problems, and working collaboratively with team members.</li>
   <li>Strong communication skills and a willingness to ask questions.</li>
@@ -33,16 +33,17 @@ permalink: /activities/internships
 
 <h2>Application Requirements</h2>
 <ol>
-  <li>Review the list of available projects when applications open.</li>
-  <li>Interns should apply through the UW Student Jobs portal. Applicants who are not currently admitted or enrolled as a UW-Madison Student or without a UW NetID can login as well as create an account.</li>
-  <li>Application materials should include:
+  <li>Review the <a href="https://drive.google.com/file/d/1c1eKe0udC4SXuLKdNJvgXAaFTxxwZfOh/view?usp=sharing">list of available projects for Summer 2025.</a></li>
+  <li>Interns should apply through the UW Student Jobs portal once applications are open. Applicants who are not currently admitted or enrolled as a UW-Madison Student or without a UW NetID can login as well as create an account.</li>
+  <li>Application materials submitted through the UW Student Jobs portal should include:
     <ul>
+      <li>A Google Form submission indicating which projects you are applying to.</li>
       <li>A one-page cover letter that identifies the project(s) you are interested in and addresses your skills and experiences relevant to those projects and your interest in open source broadly.</li>
       <li>A resume that includes your name, school email address, phone number, field(s) of study (major, minor, degree, certificate), relevant coursework, extracurricular activities, expected graduation date, and any relevant work or research experience.</li>
       <li>The names and contact information of three references.</li>
     </ul>
   </li>
-  <li>Submit a resume, cover letter, and three references as part of your application. Make sure you identify the specific project or projects you are applying to or proposing in your cover letter.</li>
-  <!--<li>Interviews will be arranged for selected candidates on a rolling basis through early February.</li>-->
+  <li>Submit the Google Form, a resume, cover letter, and three references as part of your application.</li>
+  <li>Interviews will be arranged for selected candidates on a rolling basis after applications close.</li>
 </ol>
 <p>Any questions regarding the application process should be directed to <a href="mailto:ospo@datascience.wisc.edu" target="_blank">ospo@datascience.wisc.edu.</a> For more information about the OSPO, visit <a href="https://ospo.wisc.edu">ospo.wisc.edu.</a></p>
