@@ -6,7 +6,7 @@ permalink: /activities/internships
 
 <h1 class="page-title uw-mini-bar">Internship Program</h1>
 
-<p style="text-align:center;"><b>Applications for the Summer 2025 Open Source Program Office Internship are now open! Review the information below and apply through the <a href="https://studentjobs.hr.wisc.edu/cw/en-us/job/508814">UW Student Jobs Portal posting.</a> Applications will close on Monday, April 7.</b>
+<p style="text-align:center;"><b>Applications for the Summer 2025 Open Source Program Office Internship are now open! Review the information below and apply through the <a href="https://studentjobs.hr.wisc.edu/cw/en-us/job/508814">UW Student Jobs Portal.</a> Applications will close on Monday, April 7.</b>
 
 <p>In collaboration with Madison College, the UW-Madison Open Source Program Office (OSPO) has established an internship program for students to participate in open source software projects each semester. During the internship, students will join a mentored open source project or develop a proposal for a self-directed project, participate in an initial training session and weekly check-ins with the Open Source Program Office, and learn crucial skills related to managing open source software projects and growing software user communities.</p>
 
