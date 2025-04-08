@@ -26,7 +26,7 @@ permalink: /activities/open-awards
 
 <h4>Open Hall of Fame Inductees:</h4>
 
-<p>Doug Bates, Karl Broman, Kevin Eliceiri, Matthew Feickert, Morton Ann Gernsbacher, Irwin Goldman and Jack Kloppenburg, Corinna Gries, Tracey Holloway and Jenny Bratburd, the JuliaPhylo team, Miron Livny and the Center for High-Throughput Computing, Sarah Miller and Tiny Earth Project, Sarah Stevens and The Carpentries, and the Space Science and Engineering Center Community Satellite Processing Package
+<p>Doug Bates, Karl Broman, Kevin Eliceiri, Matthew Feickert, Morton Ann Gernsbacher, Irwin Goldman and Jack Kloppenburg, Corinna Gries, Tracey Holloway and Jenny Bratburd, the JuliaPhylo team, Miron Livny and the Center for High Throughput Computing, Sarah Miller and Tiny Earth Project, Sarah Stevens and The Carpentries, and the Space Science and Engineering Center Community Satellite Processing Package
 
 <h4>Open Scholarship Award Winners:</h4>
 
