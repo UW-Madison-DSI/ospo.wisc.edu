@@ -16,7 +16,7 @@ permalink: /activities/internships
 
 <h2>Timeline and Schedule</h2>
 
-<p>Internship work schedules will be established in collaboration with the project mentors, with a general expected commitment of 10-15 hours/week over 20 weeks. In addition to the work schedule established with the project lead, interns will participate in a weekly group session with the OSPO for check-ins, trainings, and guest speakers.</p>
+<p>Internship work schedules will be established in collaboration with the project mentors, with a general expected commitment of 10-15 hours/week. In addition to the work schedule established with the project lead, interns will participate in a weekly group session with the OSPO for check-ins, trainings, and guest speakers.</p>
 
 <h2>Compensation</h2>
 
