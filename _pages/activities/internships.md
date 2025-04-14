@@ -6,7 +6,7 @@ permalink: /activities/internships
 
 <h1 class="page-title uw-mini-bar">Internship Program</h1>
 
-<p style="text-align:center;"><b>Applications for the Summer 2025 Open Source Program Office Internship are now open! Review the information below and apply through the <a href="https://studentjobs.hr.wisc.edu/cw/en-us/job/508814">UW Student Jobs Portal.</a> Applications will close on Monday, April 7.</b>
+<!--<p style="text-align:center;"><b>Applications for the Summer 2025 Open Source Program Office Internship are now open! Review the information below and apply through the <a href="https://studentjobs.hr.wisc.edu/cw/en-us/job/508814">UW Student Jobs Portal.</a> Applications will close on Monday, April 7.</b>-->
 
 <p>In collaboration with Madison College, the UW-Madison Open Source Program Office (OSPO) has established an internship program for students to participate in open source software projects each semester. During the internship, students will join a mentored open source project or develop a proposal for a self-directed project, participate in an initial training session and weekly check-ins with the Open Source Program Office, and learn crucial skills related to managing open source software projects and growing software user communities.</p>
 
@@ -24,7 +24,7 @@ permalink: /activities/internships
 
 <h2>Skills and Experience</h2>
 
-<p>A list of project descriptions will be published with specific desired skills during the application period each semester. <a href="https://drive.google.com/file/d/1c1eKe0udC4SXuLKdNJvgXAaFTxxwZfOh/view?usp=sharing">View the Summer 2025 Project List here.</a> In general, we expect applicants to possess:</p>
+<p>A list of project descriptions will be published with specific desired skills during the application period each semester. <!--<a href="https://drive.google.com/file/d/1c1eKe0udC4SXuLKdNJvgXAaFTxxwZfOh/view?usp=sharing">View the Summer 2025 Project List here.</a>--> In general, we expect applicants to possess:</p>
 <ul>
   <li>Experience balancing multiple tasks, identifying and solving problems, and working collaboratively with team members.</li>
   <li>Strong communication skills and a willingness to ask questions.</li>
@@ -33,7 +33,7 @@ permalink: /activities/internships
 
 <h2>Application Requirements</h2>
 <ol>
-  <li>Review the <a href="https://drive.google.com/file/d/1c1eKe0udC4SXuLKdNJvgXAaFTxxwZfOh/view?usp=sharing">list of available projects for Summer 2025.</a></li>
+  <li>Review the list of available projects when applications open.</a></li>
   <li>Interns should apply through the UW Student Jobs portal once applications are open. Applicants who are not currently admitted or enrolled as a UW-Madison Student or without a UW NetID can login as well as create an account.</li>
   <li>Application materials submitted through the UW Student Jobs portal should include:
     <ul>
