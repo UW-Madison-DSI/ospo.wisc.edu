@@ -60,7 +60,7 @@ permalink: /activities/open-awards
 
 <h5>NASA Health and Air Quality Applied Sciences (HAQAST) Team</h5>
 <ul>
-	<li><b>Tracey Holloway,</b>Professor of Environmental Studies and Atmospheric & Oceanic Sciences</li>
+	<li><b>Tracey Holloway, </b>Professor of Environmental Studies and Atmospheric & Oceanic Sciences</li>
 	<li><b>Jenny Bratburd,</b> HAQAST Outreach Coordinator and Researcher</li>
 	<li>For their work on HAQAST connecting NASA data and tools with public stakeholders. The data products provided by HAQAST have supported public outreach platforms reaching thousands of users.</li>
 </ul>
