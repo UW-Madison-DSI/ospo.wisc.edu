@@ -36,7 +36,7 @@ permalink: /activities/open-awards
 <p>For his work on <a href="https://imagej.net/">ImageJ,</a> an open source project for processing and analyzing scientific images. He is also an <a href="https://research.wisc.edu/uncategorized/2022/08/02/eliceiri-named-open-hardware-trailblazer-fellow/">Open Source Hardware Trailblazer Fellow.</a>
 
 <h5>Matthew Feickert, Data Science Institute Research Scientist</h5>
-<p>For his work on For his work on the executive board of the Institute for Research and Innovation in Software for High Energy Physics <a href="https://iris-hep.org/">(IRIS-HEP)</a> and on the <a href="https://conference.scipy.org/">SciPy Conference</a> organizing committee. He received the US Research Software Sustainability Institute (URSSI) Early Career Fellowship.
+<p>For his work on the executive board of the Institute for Research and Innovation in Software for High Energy Physics <a href="https://iris-hep.org/">(IRIS-HEP)</a> and on the <a href="https://conference.scipy.org/">SciPy Conference</a> organizing committee. He received the US Research Software Sustainability Institute (URSSI) Early Career Fellowship.
 
 <h5>Morton Ann Gernsbacher, Vilas Research Professor and Sir Frederic C. Bartlett Professor of Psychology</h5>
 <p>For her work on open active learning courses that have served thousands of UW-Madison students. She also provides open access to her <a href="https://gernsbacherlab.org/">research lab's</a> materials, data, and manuscripts, contributes scholarship on open science topics, and champions open and reproducible research practices.</p>
