@@ -33,7 +33,7 @@ permalink: /activities/internships
 
 <h2>Application Requirements</h2>
 <ol>
-  <li>Review the list of available projects when applications open.</a></li>
+  <li>Review the list of available projects when applications open.</li>
   <li>Interns should apply through the UW Student Jobs portal once applications are open. Applicants who are not currently admitted or enrolled as a UW-Madison Student or without a UW NetID can login as well as create an account.</li>
   <li>Application materials submitted through the UW Student Jobs portal should include:
     <ul>
