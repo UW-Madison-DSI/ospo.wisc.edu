@@ -38,7 +38,7 @@ permalink: /activities/internships
   <li>Application materials submitted through the UW Student Jobs portal should include:
     <ul>
       <li>A Google Form submission indicating which projects you are applying to.</li>
-      <li>A one-page cover letter that identifies the project(s) you are interested in and addresses your skills and experiences relevant to those projects and your interest in open source broadly.</li>
+      <li>A one-page cover letter that identifies the project(s) you are interested in and addresses your skills and experiences relevant to those projects and your interest in open source broadly. If you are applying to different projects, please give each project their own paragraph where you specifically address your relevant skills and the needed skills listed in the project description.</li>
       <li>A resume that includes your name, school email address, phone number, field(s) of study (major, minor, degree, certificate), relevant coursework, extracurricular activities, expected graduation date, and any relevant work or research experience.</li>
       <li>The names and contact information of three references.</li>
     </ul>
