@@ -37,13 +37,17 @@ permalink: /activities/internships
   <li>Interns should apply through the <a href="https://studentjobs.hr.wisc.edu/cw/en-us/job/509280" target="_blank">UW Student Jobs portal</a>. Applicants who are not currently admitted or enrolled as a UW-Madison Student or without a UW NetID can login as well as create an account.</li>
   <li>Application materials submitted through the UW Student Jobs portal should include:
     <ul>
-      <li>A <a href="https://forms.gle/nEC4t2W245BtvdYj7" target="_blank">Google Form submission</a> indicating which projects you are applying to.</li>
       <li>A one-page cover letter that identifies the project(s) you are interested in and addresses your skills and experiences relevant to those projects and your interest in open source broadly. If you are applying to different projects, please give each project their own paragraph where you specifically address your relevant skills and the needed skills listed in the project description.</li>
       <li>A resume that includes your name, school email address, phone number, field(s) of study (major, minor, degree, certificate), relevant coursework, extracurricular activities, expected graduation date, and any relevant work or research experience.</li>
       <li>The names and contact information of three references.</li>
     </ul>
   </li>
-  <li>Submit the <a href="https://forms.gle/nEC4t2W245BtvdYj7">Google Form</a>, a resume, cover letter, and three references as part of your application.</li>
+  <li>Submit a resume, cover letter, and three references as part of your application.</li>
   <li>Interviews will be arranged for selected candidates on a rolling basis after applications close.</li>
 </ol>
+
+<div style="background:lightgrey; padding:10px; font-style:italic; margin-bottom:20px">
+    The application period for Fall 2025 has closed. Information will be updated with hiring for Spring 2026 begins. 
+</div>
+
 <p>Any questions regarding the application process should be directed to <a href="mailto:ospo@datascience.wisc.edu" target="_blank">ospo@datascience.wisc.edu.</a> For more information about the OSPO, visit <a href="https://ospo.wisc.edu">ospo.wisc.edu.</a></p>
