@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+<!-- Head -->
+
+<head>
+  {%- if page.redirect -%}
+  <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
+  {%- endif -%}
+  {% include head.html %}
+</head>
+
+<!-- Body -->
+
+<body
+  class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+
+  <!-- Header -->
+  {%- include header.html %}
+
+  <!-- Content -->
+  <div class="container">
+    <h2>{{ page.job-title }}</h2>
+    {{ content }}
+    <h3>Application Information</h3>
+    <ol>
+      <li>Interns should apply through the UW Student Jobs portal. Applicants who are not currently admitted or enrolled
+        as a UW-Madison Student or without a UW NetID can login as well as create an account.</li>
+      <li>Application materials submitted through the UW Student Jobs portal should include:
+        <ul>
+          <li>A one-page cover letter that identifies the project(s) you are interested in and addresses your skills and
+            experiences relevant to those projects and your interest in open source broadly. If you are applying to
+            different projects, please give each project their own paragraph where you specifically address your
+            relevant skills and the needed skills listed in the project description.</li>
+          <li>A resume that includes your name, school email address, phone number, field(s) of study (major, minor,
+            degree, certificate), relevant coursework, extracurricular activities, expected graduation date, and any
+            relevant work or research experience.</li>
+          <li>The names and contact information of three references.</li>
+        </ul>
+      </li>
+      <li>Submit a resume, cover letter, and three references as part of your application.</li>
+      <li>Interviews will be arranged for selected candidates on a rolling basis after applications close.</li>
+    </ol>
+    <button class="apply-button" onclick="window.open('{{ page.job-link }}', '_blank')" type="button">
+      Apply Now
+    </button>
+  </div>
+
+  <!-- add some space-->
+  <br />
+
+  <!-- Footer -->
+  {%- include footer.html %}
+
+  <!-- JavaScripts -->
+  {% include scripts/jquery.html %}
+  {% include scripts/bootstrap.html %}
+  {% include scripts/masonry.html %}
+  {% include scripts/misc.html %}
+  {% include scripts/badges.html %}
+  {% include scripts/mathjax.html %}
+  {% include scripts/analytics.html %}
+  {% include scripts/progressBar.html %}
+  <!--[if lte IE 9]>
+      <script src="js/polyfills/classList.js"></script>
+    <![endif]-->
+  <script src="{{ site.baseurl }}/assets/js/uw-style.min.js?version=3.2.0"></script>
+</body>
+
+</html>
