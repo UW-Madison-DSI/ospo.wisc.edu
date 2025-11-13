@@ -19,5 +19,4 @@ permalink: /activities/internships/projects
 - [clubSandwich](/activities/internships/clubsandwich)
 - [lmeInfo](/activities/internships/lmeinfo)
 - [scdhlm](/activities/internships/scdhlm)
-- [JuliaPhylo](/activities/internships/juliaphylo)
 - [Polymer Digital Engineering](/activities/internships/polymer)

@@ -27,13 +27,27 @@ permalink: /activities/internships
 <p>Interns will be compensated at a range of $15-$17/hour depending on experience. Interns may apply to continue their appointment beyond the initial internship period as long as they continue to meet the enrollment eligibility requirement.</p>
 
 <h2>Skills and Experience</h2>
-
-<p>A list of project descriptions will be published with specific desired skills during the application period each semester. <!--<a href="https://drive.google.com/file/d/1c1eKe0udC4SXuLKdNJvgXAaFTxxwZfOh/view?usp=sharing">View the Summer 2025 Project List here.</a>--> In general, we expect applicants to possess:</p>
+<p>Project descriptions will be published with specific desired skills during the application period each semester. In general, we expect applicants to possess:</p>
 <ul>
   <li>Experience balancing multiple tasks, identifying and solving problems, and working collaboratively with team members.</li>
   <li>Strong communication skills and a willingness to ask questions.</li>
   <li>A general familiarity with or interest in software development practices and communities.</li>
 </ul>
+
+<h2>Application Requirements</h2>
+<ol>
+  <li>Review the available projects by visiting the various project pages.</li>
+  <li>Interns should apply through the <a href="https://studentjobs.hr.wisc.edu">UW Student Jobs portal</a>. Applicants who are not currently admitted or enrolled as a UW-Madison Student or without a UW NetID can login as well as create an account. Please note, you must apply to each project individually that you want to be considered for.</li>
+  <li>Application materials submitted through the UW Student Jobs portal should include:</li>
+  <ul>
+    <li>A one-page cover letter that highlights your qualifications based on skills identified in the project listing and your interest in open source broadly.</li>
+    <li>A resume that includes your name, school email address, phone number, field(s) of study (major, minor, degree, certificate), relevant coursework, extracurricular activities, expected graduation date, relevant sample work (ex: GitHub link, personal website, etc.) and any relevant work or research experience.</li>
+    <li>The names and contact information of three references.</li>
+  </ul>
+  <li>Submit a resume, cover letter, and three references as part of your application.</li>
+  <li>Interviews will be arranged for selected candidates on a rolling basis after applications close.</li>
+</ol>
+
 <button class="apply-button" onclick="window.location.href='/activities/internships/projects'" type="button">View Available Projects</button>
 
 <hr />
