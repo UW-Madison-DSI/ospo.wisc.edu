@@ -2,7 +2,7 @@
 title: Internships | Open Source Program Office
 layout: job-listing
 permalink: /activities/internships/lasso
-job-title: LASSO
+job-title: Spike-and-Slab LASSO
 job-link: https://studentjobs.hr.wisc.edu/cw/en-us/job/509741
 ---
 ### Project leader:
