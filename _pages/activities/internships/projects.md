@@ -6,7 +6,7 @@ permalink: /activities/internships/projects
 ## Spring 2026 Internship Projects
 - [ESSOS](/activities/internships/essos){:target="_blank"}
 - [SPECTRAX](/activities/internships/spectrax){:target="_blank"}
-- [LASSO](/activities/internships/lasso){:target="_blank"}
+- [Spike-and-Slab LASSO](/activities/internships/lasso){:target="_blank"}
 - [RLinearAlgebra.jl](/activities/internships/rlinear){:target="_blank"}
 - [Taskflow](/activities/internships/taskflow){:target="_blank"}
 - [Machine Learning Gyrochronology Age Estimator](/activities/internships/gyrochronology){:target="_blank"}
