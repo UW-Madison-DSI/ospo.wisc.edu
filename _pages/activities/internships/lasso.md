@@ -3,7 +3,7 @@ title: Internships | Open Source Program Office
 layout: job-listing
 permalink: /activities/internships/lasso
 job-title: LASSO
-job-link: https://drive.google.com/file/d/1jJ6wABKsPerw5le3Mtw9WySkMhAAYC2f/view
+job-link: https://studentjobs.hr.wisc.edu/cw/en-us/job/509741
 ---
 ### Project leader:
 Sameer Deshpande, (sameer.deshpande@wisc.edu)

@@ -3,7 +3,7 @@ title: Internships | Open Source Program Office
 layout: job-listing
 permalink: /activities/internships/livescripts
 job-title: Interactive Live Scripts for Science Education
-job-link: https://drive.google.com/file/d/1jJ6wABKsPerw5le3Mtw9WySkMhAAYC2f/view
+job-link: https://studentjobs.hr.wisc.edu/cw/en-us/job/509735
 ---
 ### Project leader:
 Duncan Carlsmith (duncan.carlsmith@wisc.edu) 

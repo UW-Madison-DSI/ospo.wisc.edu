@@ -3,7 +3,7 @@ title: Internships | Open Source Program Office
 layout: job-listing
 permalink: /activities/internships/spectrax
 job-title: SPECTRAX
-job-link: https://drive.google.com/file/d/1jJ6wABKsPerw5le3Mtw9WySkMhAAYC2f/view
+job-link: https://studentjobs.hr.wisc.edu/cw/en-us/job/509727
 ---
 ### Project leader:
 Rogerio Jorge, (rogerio.jorge@wisc.edu)
@@ -11,7 +11,7 @@ Rogerio Jorge, (rogerio.jorge@wisc.edu)
 ### Project description:
 The SPECTRAX team intends to model the plasma turbulence seen in astrophysical
 plasma systems, such as the Sun and intergalactic media. Using the open-source
-code SPECTRAX (https://github.com/uwplasma/SPECTRAX), we intend to show
+code [SPECTRAX](https://github.com/uwplasma/SPECTRAX), we intend to show
 that shocks and three-dimensional magnetic reconnection can be modelled
 using Python-based software such as JAX and DIFFRAX. The goal is to generate
 differentiable plasma physics simulations that can be used in active research.
