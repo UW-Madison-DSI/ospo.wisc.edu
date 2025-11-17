@@ -13,7 +13,7 @@ permalink: /activities/internships/projects
 - [Dengue & Nipah Virus Eco-Epidemiology in Bangladesh](/activities/internships/epidemiology){:target="_blank"}
 - [Promoting Open Access to Scholarly Research](/activities/internships/access){:target="_blank"}
 - [RSEM](/activities/internships/rsem){:target="_blank"}
-- [Open Source Toolbox for Analyzing Frequency Following Responses (FFRs){:target="_blank"}](/activities/internships/ffrs){:target="_blank"}
+- [Open Source Toolbox for Analyzing Frequency Following Responses (FFRs)](/activities/internships/ffrs){:target="_blank"}
 - [Matern Covariance](/activities/internships/matern){:target="_blank"}
 - [Interactive Live Scripts for Science Education](/activities/internships/livescripts){:target="_blank"}
 - [clubSandwich](/activities/internships/clubsandwich){:target="_blank"}
