@@ -4,6 +4,10 @@ layout: default
 permalink: /activities/internships
 ---
 
+<div style="background:lightgrey; padding:10px; font-style:italic; margin:20px 0 20px 0; text-align: center;">
+  The internship application process has changed from previous years. Please carefully review the application instructions.
+</div>
+
 <h1 class="page-title uw-mini-bar">Internship Program</h1>
 
 <!--<p style="text-align:center;"><b>Applications for the Summer 2025 Open Source Program Office Internship are now open! Review the information below and apply through the <a href="https://studentjobs.hr.wisc.edu/cw/en-us/job/508814">UW Student Jobs Portal.</a> Applications will close on Monday, April 7.</b>-->
@@ -23,8 +27,7 @@ permalink: /activities/internships
 <p>Interns will be compensated at a range of $15-$17/hour depending on experience. Interns may apply to continue their appointment beyond the initial internship period as long as they continue to meet the enrollment eligibility requirement.</p>
 
 <h2>Skills and Experience</h2>
-
-<p>A list of project descriptions will be published with specific desired skills during the application period each semester. <!--<a href="https://drive.google.com/file/d/1c1eKe0udC4SXuLKdNJvgXAaFTxxwZfOh/view?usp=sharing">View the Summer 2025 Project List here.</a>--> In general, we expect applicants to possess:</p>
+<p>Project descriptions will be published with specific desired skills during the application period each semester. In general, we expect applicants to possess:</p>
 <ul>
   <li>Experience balancing multiple tasks, identifying and solving problems, and working collaboratively with team members.</li>
   <li>Strong communication skills and a willingness to ask questions.</li>
@@ -33,21 +36,20 @@ permalink: /activities/internships
 
 <h2>Application Requirements</h2>
 <ol>
-  <li>Review the <a href="https://drive.google.com/file/d/1jJ6wABKsPerw5le3Mtw9WySkMhAAYC2f/view?usp=sharing" target="_blank">list of available projects</a>.</li>
-  <li>Interns should apply through the <a href="https://studentjobs.hr.wisc.edu" target="_blank">UW Student Jobs portal</a>. Applicants who are not currently admitted or enrolled as a UW-Madison Student or without a UW NetID can login as well as create an account.</li>
-  <li>Application materials submitted through the UW Student Jobs portal should include:
-    <ul>
-      <li>A one-page cover letter that identifies the project(s) you are interested in and addresses your skills and experiences relevant to those projects and your interest in open source broadly. If you are applying to different projects, please give each project their own paragraph where you specifically address your relevant skills and the needed skills listed in the project description.</li>
-      <li>A resume that includes your name, school email address, phone number, field(s) of study (major, minor, degree, certificate), relevant coursework, extracurricular activities, expected graduation date, and any relevant work or research experience.</li>
-      <li>The names and contact information of three references.</li>
-    </ul>
-  </li>
+  <li>Review the available projects by visiting the various project pages.</li>
+  <li>Interns should apply through the <a href="https://studentjobs.hr.wisc.edu">UW Student Jobs portal</a>. Applicants who are not currently admitted or enrolled as a UW-Madison Student or without a UW NetID can login as well as create an account. Please note, you must apply to each project individually that you want to be considered for.</li>
+  <li>Application materials submitted through the UW Student Jobs portal should include:</li>
+  <ul>
+    <li>A one-page cover letter that highlights your qualifications based on skills identified in the project listing and your interest in open source broadly.</li>
+    <li>A resume that includes your name, school email address, phone number, field(s) of study (major, minor, degree, certificate), relevant coursework, extracurricular activities, expected graduation date, relevant sample work (ex: GitHub link, personal website, etc.) and any relevant work or research experience.</li>
+    <li>The names and contact information of three references.</li>
+  </ul>
   <li>Submit a resume, cover letter, and three references as part of your application.</li>
   <li>Interviews will be arranged for selected candidates on a rolling basis after applications close.</li>
 </ol>
 
-<div style="background:lightgrey; padding:10px; font-style:italic; margin-bottom:20px">
-    The application period for Fall 2025 has closed. Information will be updated with hiring for Spring 2026. 
-</div>
+<button class="apply-button" onclick="window.location.href='/activities/internships/projects'" type="button">View Available Projects</button>
+
+<hr />
 
 <p>Any questions regarding the application process should be directed to <a href="mailto:ospo@datascience.wisc.edu" target="_blank">ospo@datascience.wisc.edu.</a> For more information about the OSPO, visit <a href="https://ospo.wisc.edu">ospo.wisc.edu.</a></p>

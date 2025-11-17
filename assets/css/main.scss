@@ -1,17 +1,18 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
 
 // Dimensions
-$max-content-width: {{ site.max_width }};
+$max-content-width:
+ {{ site.max_width }};
 
-@import
-  "variables",
-  "themes",
-  "layout",
-  "base",
-  "distill"
+@import "variables",
+"themes",
+"layout",
+"base",
+"distill"
 ;
 
 /******************************************************************************\
@@ -33,118 +34,119 @@ $max-content-width: {{ site.max_width }};
 
 // add custom styles here
 
-.carousel-control-prev, 
-.carousel-control-next, {
-    width: unset;
+.carousel-control-prev,
+.carousel-control-next,
+{
+width: unset;
 }
 
 .carousel-item .image {
-    width: 100% !important;
-    aspect-ratio: 1.5;
-    max-height: 450px;
-    background-size: cover !important;
-    background-position: center !important;
+  width: 100% !important;
+  aspect-ratio: 1.5;
+  max-height: 450px;
+  background-size: cover !important;
+  background-position: center !important;
 }
 
 .carousel-caption {
-    background: rgba(0,0,0,0.5);
-    border-radius: 25px;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 25px;
 }
 
-.carousel .carousel-control-prev-icon, 
+.carousel .carousel-control-prev-icon,
 .carousel .carousel-control-next-icon {
-    width: 50px;
-    height: 50px;
+  width: 50px;
+  height: 50px;
 }
 
 .uw-hero {
-    width: auto;
-    aspect-ratio: 1600 / 400;
-    background-size: cover;
-    position: relative;
-    overflow: hidden;
+  width: auto;
+  aspect-ratio: 1600 / 400;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
 
-    .uw-hero-inset-wrapper {
-        width: 100%;
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        padding-top: 100px;
-        background: linear-gradient(to bottom, transparent 0%, black 100%);
-        color: white;
-    }
+  .uw-hero-inset-wrapper {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding-top: 100px;
+    background: linear-gradient(to bottom, transparent 0%, black 100%);
+    color: white;
+  }
 
-    .credit {
-        text-align: right;
-        color: white;
-        font-size: 0.75em;
-        margin: 20px;
-    }
+  .credit {
+    text-align: right;
+    color: white;
+    font-size: 0.75em;
+    margin: 20px;
+  }
 }
 
 label i {
-    margin-right: 5px;
+  margin-right: 5px;
 }
 
 .row div {
-    margin: 10px 0;
+  margin: 10px 0;
 }
 
 .row li img {
-    display: block;
-    width: 75%;
-    max-width: 300px;
-    margin: auto;
+  display: block;
+  width: 75%;
+  max-width: 300px;
+  margin: auto;
 }
 
-.row .logo, 
+.row .logo,
 .row .screenshot {
-    display: block;
-    max-height: 200px;
-    margin: auto;
-    filter: drop-shadow(10px 10px 20px rgba(0, 0, 0, 0.15));
+  display: block;
+  max-height: 200px;
+  margin: auto;
+  filter: drop-shadow(10px 10px 20px rgba(0, 0, 0, 0.15));
 }
 
 .tile {
-    width: 50px;
-    height: 50px;
-    background-size: cover;
-    float: left;
-    margin-right: 20px;
+  width: 50px;
+  height: 50px;
+  background-size: cover;
+  float: left;
+  margin-right: 20px;
 }
 
 a.news-title {
-    text-decoration: none !important;
-    font-size: 18px;
-    font-weight: bold;
+  text-decoration: none !important;
+  font-size: 18px;
+  font-weight: bold;
 }
 
 .uw-footer {
-    background-color: #373737 !important;
+  background-color: #373737 !important;
 }
 
 #uw-footer-notices {
-    background: #282728;
-    // padding: .3rem 1rem .3rem 1rem;
-    padding: 20px;
-    text-align: center;
-    color: #adadad;
-    min-height: 0;
-    font-size: 0.9rem;
-    outline: 1px solid #282728;
+  background: #282728;
+  // padding: .3rem 1rem .3rem 1rem;
+  padding: 20px;
+  text-align: center;
+  color: #adadad;
+  min-height: 0;
+  font-size: 0.9rem;
+  outline: 1px solid #282728;
 
-    .container {
-         color: #adadad !important;
+  .container {
+    color: #adadad !important;
+  }
+
+  a {
+    color: #adadad !important;
+    text-decoration: underline;
+
+    &:hover {
+      text-decoration: none;
     }
-
-    a {
-        color: #adadad !important;
-        text-decoration: underline;
-
-        &:hover {
-            text-decoration: none;
-        }
-    }
+  }
 }
 
 /*
@@ -179,3 +181,19 @@ body {
 }
 */
 //
+
+.apply-button {
+  background-color: #c5050c;
+  border-radius: 15px;
+  padding: 5px 15px 5px 15px;
+  margin: 0;
+  font-family: Red Hat Text, sans-serif;
+  color: white;
+}
+.apply-button:hover {
+  background-color: #9B0000;
+}
+
+.apply-button h2 {
+  font-family: Red Hat Text, sans-serif;
+}
