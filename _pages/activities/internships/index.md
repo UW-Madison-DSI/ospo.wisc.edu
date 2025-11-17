@@ -48,7 +48,7 @@ permalink: /activities/internships
   <li>Interviews will be arranged for selected candidates on a rolling basis after applications close.</li>
 </ol>
 
-<button class="apply-button" onclick="window.location.href='/activities/internships/projects'" type="button">View Available Projects</button>
+<button class="apply-button" onclick="window.open('/activities/internships/projects', '_blank')" type="button">View Available Projects</button>
 
 <hr />
 
