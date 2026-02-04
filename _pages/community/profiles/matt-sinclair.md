@@ -38,7 +38,7 @@ Alongside his work on the gem5 project, Sinclair is a dedicated professor within
 
 "The computer architecture faculty here at Wisconsin… They have a very long history of leading the efforts to develop open source tools.” 
 
-With that long history has come a heritage of excellence. Even during his undergraduate degree, open source software was being tested and created with the help of his predecessors. The research they performed was foundational to the work that Sinclair does. “The tools that have been developed here are used in somewhere between 20 and 30% of L papers that are published in our top tier conferences,” said Sinclair about his mentors. Their philosophy was one he brought with him into his PhD and subsequent research. 
+With that long history has come a heritage of excellence. Even during his undergraduate degree, open source software was being tested and created with the help of his predecessors. The research they performed was foundational to the work that Sinclair does. “The tools that have been developed here are used in somewhere between 20 and 30% of the papers that are published in our top tier conferences,” said Sinclair about his mentors. Their philosophy was one he brought with him into his PhD and subsequent research. 
 
 The field has become much more accessible since the time when Sinclair was in undergrad. Now, the only thing that can limit someone interested in open source is their motivation.
 
