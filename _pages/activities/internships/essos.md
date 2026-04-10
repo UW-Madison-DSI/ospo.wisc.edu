@@ -3,7 +3,7 @@ title: Internships | Open Source Program Office
 layout: job-listing
 permalink: /activities/internships/essos
 job-title: ESSOS
-job-link: https://studentjobs.hr.wisc.edu/cw/en-us/job/509726
+job-link: https://studentjobs.hr.wisc.edu/cw/en-us/job/511391
 ---
 ### Project leader:
 Rogerio Jorge, (rogerio.jorge@wisc.edu)

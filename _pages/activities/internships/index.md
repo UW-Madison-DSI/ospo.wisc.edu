@@ -4,9 +4,9 @@ layout: default
 permalink: /activities/internships
 ---
 
-<div style="background:lightgrey; padding:10px; font-style:italic; margin:20px 0 20px 0; text-align: center;">
-  The application period for Spring 2026 has closed. Information will be updated with hiring for Fall 2026.
-</div>
+<!-- <div style="background:lightgrey; padding:10px; font-style:italic; margin:20px 0 20px 0; text-align: center;"> -->
+  <!-- The application period for Spring 2026 has closed. Information will be updated with hiring for Fall 2026. -->
+<!-- </div> -->
 
 <h1 class="page-title uw-mini-bar">Internship Program</h1>
 
@@ -48,9 +48,9 @@ permalink: /activities/internships
   <li>Interviews will be arranged for selected candidates on a rolling basis after applications close.</li>
 </ol>
 
-<!--
+
 <button class="apply-button" onclick="window.open('/activities/internships/projects', '_blank')" type="button">View Available Projects</button>
--->
+
 
 <hr />
 

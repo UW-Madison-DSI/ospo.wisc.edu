@@ -3,7 +3,7 @@ title: Internships | Open Source Program Office
 layout: job-listing
 permalink: /activities/internships/rlinear
 job-title: RLinearAlgebra.jl
-job-link: https://studentjobs.hr.wisc.edu/cw/en-us/job/509728
+job-link: https://studentjobs.hr.wisc.edu/cw/en-us/job/511385
 ---
 ### Project leader:
 Vivak Patel, (vivak.patel@wisc.edu)
