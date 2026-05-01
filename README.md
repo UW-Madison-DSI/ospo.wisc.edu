@@ -1,3 +1,7 @@
+# The OSPO website is no longer contained in this repo. To offer suggestions or for accessibility concerns, please message `ospo@datascience.wisc.edu`.
+
+---
+
 <p align="center">
   <div align="center">
     <img src="./images/logos/uw-crest.svg" alt="Logo" width="150">
